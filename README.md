@@ -1,6 +1,8 @@
 # car_rental_app
 
-A new Flutter project.
+A Simple Car rental app UI
+
+
 
 ## Getting Started
 
